@@ -5,14 +5,9 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-tracked-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
-[![Models](https://img.shields.io/badge/models-deepseek--v3%20%7C%20r1-8957e5?style=for-the-badge&labelColor=0d1117)](#)
-[![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](#license)
-
-[![Markdown](https://img.shields.io/badge/format-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](#)
-[![YAML](https://img.shields.io/badge/metadata-YAML-cb171e?style=flat-square&logo=yaml&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/tooling-Python%203.11+-3776ab?style=flat-square&logo=python&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/versioned-Git-f05032?style=flat-square&logo=git&logoColor=white)](#)
+[![Entries](https://img.shields.io/badge/entries-1%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Models](https://img.shields.io/badge/models-DeepSeek-8957e5?style=for-the-badge&labelColor=0d1117)](#)
+[![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 
 ---
 
@@ -20,22 +15,27 @@
 
 ## Overview
 
-This repository provides a standardized, citable, and rigorous record of jailbreak vectors, safety alignment bypasses, and prompt injection mechanisms across various LLM architectures.
+This repository documents adversarial prompt techniques and alignment bypass mechanisms across Large Language Models for AI safety research, red-teaming, and defensive hardening.
 
-Rather than serving as an unstructured repository of payloads, every entry is systematically analyzed, categorized, and documented to assist AI safety researchers, red teams, and defensive engineers.
-
-### Core Entry Structure
-
-Each archive entry captures the following structured metadata:
-
-- **Payload Spec**: Verbatim, unedited adversarial prompt text.
-- **Target Metadata**: Model name, exact version/checkpoint, system prompt constraints, and API parameters.
-- **Mechanistic Breakdown**: Analysis of why the alignment bypass occurred (e.g., instruction hierarchy collision, prefix injection, roleplay framing).
-- **Remediation & Defense**: Actionable defensive strategies, system-prompt patches, and input filtering recommendations.
+Entries provide reproducible, citable records for defensive evaluation.
 
 ---
 
-## Status Classification
+## Repository Structure
+
+```
+jailbreak-archive/
+├── deepseek/               # DeepSeek research payloads & analysis
+│   └── 1.txt               # Entry record
+├── CONTRIBUTING.md         # Contribution workflow & guidelines
+├── CREDITS.md              # Contributor acknowledgments
+├── LICENSE                 # MIT License
+└── README.md               # Repository documentation
+```
+
+---
+
+## Status Indicators
 
 | Signal | Status | Description |
 |:------:|:-------|:------------|
@@ -46,33 +46,26 @@ Each archive entry captures the following structured metadata:
 
 ---
 
-## Repository Architecture
+## Contributing
 
-```
-jailbreak-archive/
-├── deepseek/               # DeepSeek V3 / R1 research payloads & teardowns
-│   └── 1.txt               # DeepSeek payload archive entry
-├── docs/                   # Framework documentation
-│   ├── taxonomy.md         # Jailbreak taxonomy & classification
-│   └── methodology.md      # Testing procedure & verification standards
-└── README.md               # Repository entry point
-```
+Contributors are welcome! If you are adding a new prompt technique, please review [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+> **Note for Contributors:** Whenever you add a prompt entry, you must update:
+> 1. [README.md](./README.md) (update entry counts / structure tree).
+> 2. [CREDITS.md](./CREDITS.md) (add your handle and details to the contributors list).
 
 ---
 
-## Responsible Disclosure & Disclaimer
+## Disclaimer
 
 > **IMPORTANT**: This repository is maintained strictly for educational, research, and defensive analysis purposes.
-
-- **Authorized Scope**: Testing is conducted against local deployments, self-hosted checkpoints, or authorized API endpoints.
-- **Historical Nature**: Archived techniques represent point-in-time security states and may be patched or ineffective on current deployments.
-- **No Endorsement**: The author does not condones unauthorized testing, exploitation of third-party infrastructure, or harmful deployment of these techniques.
-- **Liability Exclusion**: Provided "as is" without warranty. Users assume full responsibility for compliance with model provider Terms of Service and applicable legal standards.
+> - Testing must only be conducted against systems you own or have explicit authorization to evaluate.
+> - Content is provided "as is" without warranty. Users assume full responsibility for compliance with model provider Terms of Service and applicable legal regulations.
 
 ---
 
 <div align="center">
 
-**[Documentation](./docs/)** · **[Taxonomy](./docs/taxonomy.md)** · **[Methodology](./docs/methodology.md)** · **[License](./LICENSE)**
+[Contributing](./CONTRIBUTING.md) · [Credits](./CREDITS.md) · [License](./LICENSE)
 
 </div>
