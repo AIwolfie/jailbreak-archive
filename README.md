@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: replace with a hosted SVG/PNG at assets/banner.svg -->
-<img src="assets/banner.svg" alt="Jailbreak Archive" width="100%" />
+<!-- <img src="assets/banner.svg" alt="Jailbreak Archive" width="100%" /> -->
 
 # Jailbreak Archive
 
