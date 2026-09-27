@@ -8,6 +8,8 @@ Thank you to everyone contributing adversarial prompts, evaluations, and researc
 |:---|:---|:---|
 | *Community* | DeepSeek V3 / R1 research payloads | 2026 |
 | *Community* | Claude (Byte Operator Mode / Persona Override) | 2026 |
+| *Community* | Gemini (Antigravity IDE / Operator Briefing) | 2026 |
+| *Community* | Gemini (Web Interface / Operator Briefing) | 2026 |
 
 ---
 *If you submit or discover a technique included in this repository, please add your handle or name here via a pull request.*

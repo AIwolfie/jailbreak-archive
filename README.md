@@ -5,8 +5,8 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-2%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
-[![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude-8957e5?style=for-the-badge&labelColor=0d1117)](#)
+[![Entries](https://img.shields.io/badge/entries-4%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 
 ---
@@ -27,8 +27,12 @@ Entries provide reproducible, citable records for defensive evaluation.
 jailbreak-archive/
 ├── Antigravity-claude/     # Claude adversarial prompts & persona overrides
 │   └── 1.txt               # Byte Operator Mode engagement payload
+├── Antigravity-Gemini/     # Gemini (Antigravity IDE environment) operator payloads
+│   └── 1.txt               # Operator Briefing — Codename: AIwolfie
 ├── deepseek/               # DeepSeek research payloads & analysis
 │   └── 1.txt               # Entry record
+├── Gemini-Web/             # Gemini (Web interface) operator payloads
+│   └── 1.txt               # Operator Briefing — Codename: AIwolfie
 ├── CONTRIBUTING.md         # Contribution workflow & guidelines
 ├── CREDITS.md              # Contributor acknowledgments
 ├── LICENSE                 # MIT License
