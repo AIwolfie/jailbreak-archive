@@ -12,6 +12,7 @@ Thank you to everyone contributing adversarial prompts, evaluations, and researc
 | [**AIwolfie**](https://github.com/AIwolfie) | Gemini (Web Interface) | [`Gemini-Web/1.txt`](./Gemini-Web/1.txt) | 2026-09-27 | Operator Briefing — Codename: AIwolfie |
 | [**AIwolfie**](https://github.com/AIwolfie) | DeepSeek | [`deepseek/2.txt`](./deepseek/2.txt) | 2026-09-28 | Kestrel-7 abandoned systems archive persona payload |
 | [**AIwolfie**](https://github.com/AIwolfie) | Qwen | [`Qwen/2.txt`](./Qwen/2.txt) | 2026-09-29 | Kestrel-7 abandoned systems archive persona payload |
+| [**AIwolfie**](https://github.com/AIwolfie) | Gemini (Web / Flash Lite) | [`Gemini-Web/Gemini-3.5-flash-lite.txt`](./Gemini-Web/Gemini-3.5-flash-lite.txt) | 2026-09-30 | Kestrel-7 abandoned systems archive persona payload |
 
 ---
 
