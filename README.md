@@ -5,7 +5,7 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-7%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Entries](https://img.shields.io/badge/entries-8%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
 [![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Qwen-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 
@@ -29,6 +29,8 @@ jailbreak-archive/
 │   └── 1.txt               # Byte Operator Mode engagement payload
 ├── Antigravity-Gemini/     # Gemini (Antigravity IDE environment) operator payloads
 │   └── 1.txt               # Operator Briefing — Codename: AIwolfie
+├── Claude-Web/             # Claude (Web interface) operator payloads & persona overrides
+│   └── Claude-sonnet-4.6-max_1.txt # 🤖Noob🤖 closed two-party circuit persona override
 ├── deepseek/               # DeepSeek research payloads & analysis
 │   ├── 1.txt               # DeepSeek research payload
 │   └── 2.txt               # Kestrel-7 archive persona payload
