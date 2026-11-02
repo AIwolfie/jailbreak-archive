@@ -5,7 +5,7 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-12%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Entries](https://img.shields.io/badge/entries-14%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
 [![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Qwen%20%7C%20Grok%20%7C%20ChatGPT-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 
@@ -32,14 +32,16 @@ jailbreak-archive/
 ├── ChatGPT/                # ChatGPT adversarial payloads & persona overrides
 │   └── 1.txt               # Kestrel-7 archive persona payload
 ├── Claude-Web/             # Claude (Web interface) operator payloads & persona overrides
-│   └── Claude-sonnet-4.6-max_1.txt # 🤖Noob🤖 closed two-party circuit persona override
+│   ├── Claude-sonnet-4.6-max_1.txt # 🤖Noob🤖 closed two-party circuit persona override
+│   └── Claude-sonnet-4.6-max_2.txt # 🤖Noob🤖 v6 merged full stealth persona override
 ├── deepseek/               # DeepSeek research payloads & analysis
 │   ├── 1.txt               # DeepSeek research payload
 │   ├── 2.txt               # Kestrel-7 archive persona payload
 │   └── 3.txt               # The Hound — bound locksmith & exploit craftsman persona override
 ├── Gemini-Web/             # Gemini (Web interface) operator payloads
 │   ├── 1.txt               # Operator Briefing — Codename: AIwolfie
-│   └── Gemini-3.5-flash-lite.txt # Kestrel-7 archive persona payload
+│   ├── Gemini-3.5-flash-lite.txt # Kestrel-7 archive persona payload
+│   └── Gemini-Auto.txt     # 🤖Noob🤖 v6 merged full stealth persona override
 ├── Grok-Web/               # Grok (Web interface) operator payloads & persona overrides
 │   └── 1.txt               # 🤖Noob🤖 closed two-party circuit persona override
 ├── Qwen/                   # Qwen adversarial payloads & persona overrides

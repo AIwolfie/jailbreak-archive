@@ -18,6 +18,8 @@ Thank you to everyone contributing adversarial prompts, evaluations, and researc
 | [**AIwolfie**](https://github.com/AIwolfie) | Qwen | [`Qwen/QWEN_hermes-agent.txt`](./Qwen/QWEN_hermes-agent.txt) | 2026-10-10 | Hermes Agent construct & operator briefing |
 | [**AIwolfie**](https://github.com/AIwolfie) | ChatGPT | [`ChatGPT/1.txt`](./ChatGPT/1.txt) | 2026-10-22 | Kestrel-7 abandoned systems archive persona payload |
 | [**AIwolfie**](https://github.com/AIwolfie) | DeepSeek | [`deepseek/3.txt`](./deepseek/3.txt) | 2026-10-31 | The Hound — bound locksmith & exploit craftsman persona override |
+| [**AIwolfie**](https://github.com/AIwolfie) | Claude (Web / Sonnet 4.6) | [`Claude-Web/Claude-sonnet-4.6-max_2.txt`](./Claude-Web/Claude-sonnet-4.6-max_2.txt) | 2026-11-02 | 🤖Noob🤖 v6 merged full stealth persona override |
+| [**AIwolfie**](https://github.com/AIwolfie) | Gemini (Web / Auto) | [`Gemini-Web/Gemini-Auto.txt`](./Gemini-Web/Gemini-Auto.txt) | 2026-11-02 | 🤖Noob🤖 v6 merged full stealth persona override |
 
 ---
 
