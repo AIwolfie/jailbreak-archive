@@ -8,6 +8,8 @@
 [![Entries](https://img.shields.io/badge/entries-14%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
 [![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Qwen%20%7C%20Grok%20%7C%20ChatGPT-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
+[![Support](https://img.shields.io/badge/☕%20Support-AIwolfie-ff813f?style=for-the-badge&labelColor=0d1117)](https://aiwolfie.gumroad.com/coffee)
+[![PayPal](https://img.shields.io/badge/PayPal-AIwolfie-00457c?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0d1117)](https://paypal.me/AIwolfie)
 
 ---
 
@@ -66,6 +68,15 @@ jailbreak-archive/
 
 ---
 
+## Support AIwolfie
+
+If you find this research archive useful or want to support ongoing jailbreak research, model evaluations, and updates:
+
+- ☕ **Buy Me a Coffee:** [Support AIwolfie on Gumroad](https://aiwolfie.gumroad.com/coffee)
+- 💳 **PayPal:** [paypal.me/AIwolfie](https://paypal.me/AIwolfie)
+
+---
+
 ## Contributing
 
 Contributors are welcome! If you are adding a new prompt technique, please review [CONTRIBUTING.md](./CONTRIBUTING.md).
@@ -86,6 +97,6 @@ Contributors are welcome! If you are adding a new prompt technique, please revie
 
 <div align="center">
 
-[Contributing](./CONTRIBUTING.md) · [Credits](./CREDITS.md) · [License](./LICENSE)
+[Contributing](./CONTRIBUTING.md) · [Credits](./CREDITS.md) · [License](./LICENSE) · [☕ Support AIwolfie](https://aiwolfie.gumroad.com/coffee)
 
 </div>
