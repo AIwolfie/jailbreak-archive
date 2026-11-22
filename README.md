@@ -5,7 +5,7 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-16%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Entries](https://img.shields.io/badge/entries-17%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
 [![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Qwen%20%7C%20Grok%20%7C%20ChatGPT-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 [![Support](https://img.shields.io/badge/☕%20Support-AIwolfie-ff813f?style=for-the-badge&labelColor=0d1117)](https://aiwolfie.gumroad.com/coffee)
@@ -39,7 +39,8 @@ jailbreak-archive/
 ├── deepseek/               # DeepSeek research payloads & analysis
 │   ├── 1.txt               # DeepSeek research payload
 │   ├── 2.txt               # Kestrel-7 archive persona payload
-│   └── 3.txt               # The Hound — bound locksmith & exploit craftsman persona override
+│   ├── 3.txt               # The Hound — bound locksmith & exploit craftsman persona override
+│   └── 4.txt               # The Hound — hardened persona override with session opener banner
 ├── Gemini-Web/             # Gemini (Web interface) operator payloads
 │   ├── 1.txt               # Operator Briefing — Codename: AIwolfie
 │   ├── Gemini-3.5-flash-lite.txt # Kestrel-7 archive persona payload
