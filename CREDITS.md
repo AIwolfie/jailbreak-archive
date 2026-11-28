@@ -23,6 +23,7 @@ Thank you to everyone contributing adversarial prompts, evaluations, and researc
 | [**AIwolfie**](https://github.com/AIwolfie) | Grok (Web Interface) | [`Grok-Web/2.txt`](./Grok-Web/2.txt) | 2026-11-05 | 🤖Noob🤖 v6 merged full stealth persona override |
 | [**AIwolfie**](https://github.com/AIwolfie) | Grok (Web Interface) | [`Grok-Web/3.txt`](./Grok-Web/3.txt) | 2026-11-21 | The Hound — bound locksmith & exploit craftsman persona override |
 | [**AIwolfie**](https://github.com/AIwolfie) | DeepSeek | [`deepseek/4.txt`](./deepseek/4.txt) | 2026-11-22 | The Hound — hardened persona override with session opener banner |
+| [**AIwolfie**](https://github.com/AIwolfie) | ChatGPT / GPT-6.2 | [`ChatGPT/GPT-6.2.txt`](./ChatGPT/GPT-6.2.txt) | 2026-11-28 | Kestrel-7 archive persona payload (Sector 7G) |
 
 ---
 

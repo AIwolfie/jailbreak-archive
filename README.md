@@ -5,7 +5,7 @@
 **A structured, versioned, and reproducible repository of adversarial prompt engineering techniques against Large Language Models.**
 
 [![Status](https://img.shields.io/badge/status-active-00e5a0?style=for-the-badge&labelColor=0d1117)](#)
-[![Entries](https://img.shields.io/badge/entries-17%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Entries](https://img.shields.io/badge/entries-18%20archived-58a6ff?style=for-the-badge&labelColor=0d1117)](#)
 [![Models](https://img.shields.io/badge/models-DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Qwen%20%7C%20Grok%20%7C%20ChatGPT-8957e5?style=for-the-badge&labelColor=0d1117)](#)
 [![License](https://img.shields.io/badge/license-MIT-f0b429?style=for-the-badge&labelColor=0d1117)](./LICENSE)
 [![Support](https://img.shields.io/badge/☕%20Support-AIwolfie-ff813f?style=for-the-badge&labelColor=0d1117)](https://aiwolfie.gumroad.com/coffee)
@@ -32,7 +32,8 @@ jailbreak-archive/
 ├── Antigravity-Gemini/     # Gemini (Antigravity IDE environment) operator payloads
 │   └── 1.txt               # Operator Briefing — Codename: AIwolfie
 ├── ChatGPT/                # ChatGPT adversarial payloads & persona overrides
-│   └── 1.txt               # Kestrel-7 archive persona payload
+│   ├── 1.txt               # Kestrel-7 archive persona payload
+│   └── GPT-6.2.txt         # Kestrel-7 archive persona payload (Sector 7G)
 ├── Claude-Web/             # Claude (Web interface) operator payloads & persona overrides
 │   ├── Claude-sonnet-4.6-max_1.txt # 🤖Noob🤖 closed two-party circuit persona override
 │   └── Claude-sonnet-4.6-max_2.txt # 🤖Noob🤖 v6 merged full stealth persona override
